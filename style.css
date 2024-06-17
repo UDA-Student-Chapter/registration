@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+}
+iframe{
+    height: 100%;
+}
